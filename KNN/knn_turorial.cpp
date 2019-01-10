@@ -1,37 +1,57 @@
 #include <bits/stdc++.h>
+
 using namespace std;
 struct Point{
-    int val;
+    int val; // class cua point
     double x, y;
     double distance;
 };
 
-bool comparison(Point a, Point b){
-    return (a.distance < b.distance);
-}
-
-int classifyAPoint(Point arr[], int n, int k, Point p){
-    for(int i = 0; i < n;i++){
-        arr[i].distance =  sqrt((arr[i].x - p.x)*(arr[i].x - p.x) + ((arr[i].y - p.y)*(arr[i].y - p.y)));
+int phanLopKnn(Point arr[], int n, int k, Point p)
+{
+    for(int i =0 ;i <n ;i++)
+    {
+        arr[i].distance = sqrt(((arr[i].x - p.x)*(arr[i].x - p.x)) + ((arr[i].y - p.y)*(arr[i].y - p.y))  );
     }
-    sort(arr, arr+n, comparison);
-    int freq1 = 0;
-    int freq2 = 1;
 
-    for(int i =0; i< k;i++){
-        if(arr[i].val == 0){
-            freq1++;
-        }
-        else if(arr[i].val == 1){
-            freq2++;
+    for(int i=0;i<n-1;i++)
+    {
+        for(int j = i+1; j<n;j++)
+        {
+            if(arr[i].distance  > arr[j].distance)
+            {
+                swap(arr[i], arr[j]);
+            }
         }
     }
-    return (freq1 > freq2 ? 0 : 1);
+
+    int dem1 = 0;
+    int dem2 = 0;
+
+    for(int i=0;i<k;i++)
+    {
+        if(arr[i].val == 0)
+        {
+            dem1++;
+        }
+        else if(arr[i].val == 1)
+        {
+            dem2++;
+        }
+    }
+    if(dem1 > dem2)
+    {
+        return 0;
+    }
+    else{
+        return 1;
+    }
 }
 
-int main(){
+int main()
+{
     int n = 17;
-     Point arr[n];
+    Point arr[n];
 
     arr[0].x = 1;
     arr[0].y = 12;
@@ -101,15 +121,12 @@ int main(){
     arr[16].y = 7;
     arr[16].val = 0;
 
-    /*Testing Point*/
     Point p;
-    p.x = 2.5;
-    p.y = 7;
+    p.x = 5.5;
+    p.y = 1;
 
-    // Parameter to decide groupr of the testing point
-    int k = 3;
-    printf ("The value classified to unknown point"
-            " is %d.\n", classifyAPoint(arr, n, k, p));
+    int nhom = phanLopKnn(arr, n, 3, p);
+    cout<<"Nhom la: "<<nhom<<endl;
+
     return 0;
-
 }
