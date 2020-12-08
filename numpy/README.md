@@ -8,3 +8,12 @@ Trả lời các câu hỏi sau:
 - Hãy tạo 1 ma trận 3 hàng 4 cột trong numpy
 - Hãy tạo  1 ma trận vuông 5x5 toàn số 7
 - Tạo ngẫu nhiên 1 ma trận có kích  thước 3x3
+
+
+## Bài 2
+
+Trả lời các câu hỏi sau:
+- shape của 1 array là gì?, Lệnh nào để in ra shape của 1 ma trận
+- in ra độ dài của array ở trên 
+- in ra kiểu của array ở trên 
+- Khai báo 1 array ở kiểu float rồi chuyển đổi array đó thành kiểu int 
