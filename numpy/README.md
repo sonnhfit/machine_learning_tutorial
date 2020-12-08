@@ -17,3 +17,7 @@ Trả lời các câu hỏi sau:
 - in ra độ dài của array ở trên 
 - in ra kiểu của array ở trên 
 - Khai báo 1 array ở kiểu float rồi chuyển đổi array đó thành kiểu int 
+
+## Bài 3
+Trong giải tích toán học, đạo hàm của một hàm số là một đại lượng mô tả sự biến thiên của hàm tại một điểm nào đó. Đạo hàm là một khái niệm cơ bản trong giải tích. Chẳng hạn, trong vật lý, đạo hàm biểu diễn vận tốc tức thời của một chất điểm chuyển động.
+f'(a) = \lim_{h \to 0} \frac{f(a+h) - f(a)}{h}
