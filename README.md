@@ -1,5 +1,5 @@
 # machine_learning_tutorial
-machine learning tutorial for begine
+machine learning tutorial for beginer
 
 ### Buổi số 1: Numpy và  matplotlib cơ bản
 Video link: [numpy và matplotlib cơ bản](https://youtu.be/q0pS1nV1DII)
