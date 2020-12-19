@@ -8,3 +8,7 @@ Note book: [matplotlib  ](https://github.com/sonnhfit/machine_learning_tutorial/
 Bài tập:  
 - [Bài tập numpy](https://github.com/sonnhfit/machine_learning_tutorial/tree/master/numpy)
 - [Bài tập matplotlib](https://github.com/sonnhfit/machine_learning_tutorial/tree/master/matplotlib)
+
+Buổi số 2: 
+link video 
+Bài tập:
