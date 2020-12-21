@@ -10,5 +10,5 @@ Bài tập:
 - [Bài tập matplotlib](https://github.com/sonnhfit/machine_learning_tutorial/tree/master/matplotlib)
 
 ### Buổi số 2: 
-link video 
+link video: [Toán cơ bản](https://youtu.be/kn_G2Je0u_o)
 Bài tập:
