@@ -12,4 +12,8 @@ Bài tập:
 ### Buổi số 2: 
 link video: [Toán cơ bản](https://youtu.be/kn_G2Je0u_o)
 
-Bài tập:
+Bài tập: [Tính đạo hàm bằng python](https://github.com/sonnhfit/machine_learning_tutorial/blob/master/Math/differentiation.ipynb)
+
+### Buổi số 3:
+
+
