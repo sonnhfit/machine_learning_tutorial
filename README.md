@@ -21,3 +21,5 @@ giới thiệu 1 số opensource:
 - Nếu bạn muốn nhận diện hình ảnh: [YOLO Detection](https://github.com/pjreddie/darknet)
 - Nếu bạn muốn làm xe hoặc máy bay tự lái: [AirSim](https://github.com/microsoft/AirSim)
 - Nếu bạn muốn làm chatbot [Rasa](https://rasa.com/docs/rasa/installation/)
+- Nếu bạn muốn làm đồ điện tử  thông minh [RasberyPI](https://www.raspberrypi.org/products/raspberry-pi-4-model-b/)
+
