@@ -15,6 +15,7 @@ link video: [Toán cơ bản](https://youtu.be/kn_G2Je0u_o)
 Bài tập: [Tính đạo hàm bằng python](https://github.com/sonnhfit/machine_learning_tutorial/blob/master/Math/differentiation.ipynb)
 
 ### Buổi số 3:
+VIDEO buổi 3: [Link VIDEO](https://youtu.be/4tbd5JadRQ4)
 giới thiệu 1 số opensource:
 
 - Nếu bạn muốn làm  về nhận diện  giọng  nói: [DeepSpeech](https://github.com/mozilla/DeepSpeech)
