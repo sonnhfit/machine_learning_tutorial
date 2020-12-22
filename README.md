@@ -23,4 +23,6 @@ giới thiệu 1 số opensource:
 - Nếu bạn muốn làm chatbot [Rasa](https://rasa.com/docs/rasa/installation/)
 - Nếu bạn muốn làm đồ điện tử  thông minh [RasberyPI](https://www.raspberrypi.org/products/raspberry-pi-4-model-b/)
 - OCR nhận diện chữ cái [tesseract-ocr](https://github.com/tesseract-ocr/tesseract)
+- Nhận diện điểm danh  khuôn mặt đơn giản [Điểm danh haarcascade](https://github.com/sonnhfit/Face-Recognition-Attendance-System/tree/master/FRAS)
+- Nhận diện  [khuôn mặt bằng deeplearning](https://github.com/sonnhfit/codebase)
 
