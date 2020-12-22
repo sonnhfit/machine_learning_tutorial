@@ -25,5 +25,5 @@ giới thiệu 1 số opensource:
 - OCR nhận diện chữ cái [tesseract-ocr](https://github.com/tesseract-ocr/tesseract)
 - Nhận diện điểm danh  khuôn mặt đơn giản [Điểm danh haarcascade](https://github.com/sonnhfit/Face-Recognition-Attendance-System/tree/master/FRAS)
 - Nhận diện  [khuôn mặt bằng deeplearning](https://github.com/sonnhfit/codebase)
-- Dự đoán [LSTM dự đoán stock ]https://github.com/scorpionhiccup/StockPricePrediction
+- Dự đoán [LSTM dự đoán stock ](https://github.com/scorpionhiccup/StockPricePrediction)
 
