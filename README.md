@@ -22,4 +22,5 @@ giới thiệu 1 số opensource:
 - Nếu bạn muốn làm xe hoặc máy bay tự lái: [AirSim](https://github.com/microsoft/AirSim)
 - Nếu bạn muốn làm chatbot [Rasa](https://rasa.com/docs/rasa/installation/)
 - Nếu bạn muốn làm đồ điện tử  thông minh [RasberyPI](https://www.raspberrypi.org/products/raspberry-pi-4-model-b/)
+- OCR nhận diện chữ cái [tesseract-ocr](https://github.com/tesseract-ocr/tesseract)
 
