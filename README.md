@@ -28,3 +28,6 @@ giới thiệu 1 số opensource:
 - Nhận diện  [khuôn mặt bằng deeplearning](https://github.com/sonnhfit/codebase)
 - Dự đoán [LSTM dự đoán stock ](https://github.com/scorpionhiccup/StockPricePrediction)
 
+### Buổi số 4
+Video [link](https://youtu.be/PqL2Cc5537U)
+Notebook trong thư mục KNN
