@@ -31,3 +31,6 @@ giới thiệu 1 số opensource:
 ### Buổi số 4
 Video [link](https://youtu.be/PqL2Cc5537U)
 Notebook trong thư mục KNN
+
+### buổi 5
+[linear regression](https://youtu.be/-ObIbjuYPzE)
