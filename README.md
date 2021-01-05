@@ -34,3 +34,6 @@ Notebook trong thư mục KNN
 
 ### buổi 5
 [linear regression](https://youtu.be/-ObIbjuYPzE)
+
+### Buổi 6
+[neural network](https://youtu.be/YKdMBHDvhVc)
