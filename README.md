@@ -37,3 +37,6 @@ Notebook trong thư mục KNN
 
 ### Buổi 6
 [neural network](https://youtu.be/YKdMBHDvhVc)
+
+### Buổi 7
+[Mạng CNN](https://youtu.be/fGVMBb2YSJc)
